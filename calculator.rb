@@ -1,4 +1,4 @@
-'../calculator.rb'
+
 
 first_number = 10
 second_number = 2
