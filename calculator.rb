@@ -1,4 +1,4 @@
-require_relative '../calculator.rb'
+require_relative
 
 first_number = 10
 second_number = 2
